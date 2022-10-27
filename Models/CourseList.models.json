@@ -613,8 +613,8 @@
     "Name": "Javascript",
     "courses": [
       {
-        "Name": "HTML5",
-        "Photo": "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png",
+        "Name": "Javascript",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -676,12 +676,12 @@
             "title":"Prerequisites",
             "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
           },
-          {"_id":"01"}
+          {"_id":"10"}
         ]
       },
       {
-        "Name": "CSS3",
-        "Photo": "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png",
+        "Name": "React",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -743,12 +743,12 @@
             "title":"Prerequisites",
             "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
           },
-          {"_id":"02"}
+          {"_id":"11"}
         ]
       },
       {
-        "Name": "Bootstrap4",
-        "Photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+        "Name": "Vue",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png?20170919082558",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -810,12 +810,12 @@
             "title":"Prerequisites",
             "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
           },
-          {"_id":"03"}
+          {"_id":"12"}
         ]
       },
       {
-        "Name": "Bootstrap5",
-        "Photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+        "Name": "Angular",
+        "Photo": "https://dwglogo.com/wp-content/uploads/2017/03/1250px-AngularJS_logo-1024x705.png",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -877,12 +877,12 @@
             "title":"Prerequisites",
             "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
           },
-          {"_id":"04"}
+          {"_id":"13"}
         ]
       },
       {
-        "Name": "Bootstrap6",
-        "Photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+        "Name": "Ember",
+        "Photo": "https://upload.wikimedia.org/wikipedia/en/6/69/Ember.js_Logo_and_Mascot.png",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -944,12 +944,12 @@
             "title":"Prerequisites",
             "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
           },
-          {"_id":"05"}
+          {"_id":"14"}
         ]
       },
       {
-        "Name": "Tailwind CSS",
-        "Photo": "https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png",
+        "Name": "Node",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -1011,208 +1011,7 @@
             "title":"Prerequisites",
             "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
           },
-          {"_id":"06"}
-        ]
-      },
-      {
-        "Name": "Foundation",
-        "Photo": "https://seeklogo.com/images/F/foundation-logo-AA9B725281-seeklogo.com.png",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"07"}
-        ]
-      },
-      {
-        "Name": "Bulma",
-        "Photo": "https://bulma.io/images/bulma-logo.png",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"08"}
-        ]
-      },
-      {
-        "Name": "Skeleton",
-        "Photo": "https://ucarecdn.com/ce6bebc5-9bc4-46fc-8c0e-ade218c2dd7d/-/format/auto/-/progressive/yes/-/preview/2048x2048/",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"09"}
+          {"_id":"15"}
         ]
       }
     ]
@@ -1222,8 +1021,209 @@
     "Name": "JAVA",
     "courses": [
       {
-        "Name": "HTML5",
-        "Photo": "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png",
+        "Name": "JAVA",
+        "Photo": "https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png",
+        "Details": [
+          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
+          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
+          {
+            "purposeQuestion":"Why to Learn HTML?",
+            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
+          },
+          {
+            "pointsOfLearning":[
+              {
+                "title":"Create Web site",
+                "text":"- You can create a website or customize an existing web template if you know HTML well"
+              },
+              {
+                "title":"Become a web designer",
+                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
+              },
+              {
+                "title":"Understand web",
+                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
+              },
+              {
+                "title":"Learn other languages",
+                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
+              }
+            ]
+          },
+          {
+            "application":"Applications of HTML",
+            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
+            "points":[
+              {
+                "title":"Web pages development",
+                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
+              },
+              {
+                "title":"nternet Navigation",
+                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
+              },
+              {
+                "title":"Responsive UI",
+                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
+              },
+              {
+                "title":"Offline support",
+                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
+              },
+              {
+                "title":"Game development",
+                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
+              }
+            ]
+          },
+          {
+            "title":"Audience",
+            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
+          },
+          {
+            "title":"Prerequisites",
+            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
+          },
+          {"_id":"16"}
+        ]
+      },
+      {
+        "Name": "Struts",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Apache_Struts_2_logo.svg/768px-Apache_Struts_2_logo.svg.png?20190703160306",
+        "Details": [
+          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
+          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
+          {
+            "purposeQuestion":"Why to Learn HTML?",
+            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
+          },
+          {
+            "pointsOfLearning":[
+              {
+                "title":"Create Web site",
+                "text":"- You can create a website or customize an existing web template if you know HTML well"
+              },
+              {
+                "title":"Become a web designer",
+                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
+              },
+              {
+                "title":"Understand web",
+                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
+              },
+              {
+                "title":"Learn other languages",
+                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
+              }
+            ]
+          },
+          {
+            "application":"Applications of HTML",
+            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
+            "points":[
+              {
+                "title":"Web pages development",
+                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
+              },
+              {
+                "title":"nternet Navigation",
+                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
+              },
+              {
+                "title":"Responsive UI",
+                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
+              },
+              {
+                "title":"Offline support",
+                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
+              },
+              {
+                "title":"Game development",
+                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
+              }
+            ]
+          },
+          {
+            "title":"Audience",
+            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
+          },
+          {
+            "title":"Prerequisites",
+            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
+          },
+          {"_id":"17"}
+        ]
+      },
+      {
+        "Name": "Hibernate",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/1200px-Hibernate_logo_a.png?20161215215523",
+        "Details": [
+          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
+          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
+          {
+            "purposeQuestion":"Why to Learn HTML?",
+            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
+          },
+          {
+            "pointsOfLearning":[
+              {
+                "title":"Create Web site",
+                "text":"- You can create a website or customize an existing web template if you know HTML well"
+              },
+              {
+                "title":"Become a web designer",
+                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
+              },
+              {
+                "title":"Understand web",
+                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
+              },
+              {
+                "title":"Learn other languages",
+                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
+              }
+            ]
+          },
+          {
+            "application":"Applications of HTML",
+            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
+            "points":[
+              {
+                "title":"Web pages development",
+                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
+              },
+              {
+                "title":"nternet Navigation",
+                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
+              },
+              {
+                "title":"Responsive UI",
+                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
+              },
+              {
+                "title":"Offline support",
+                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
+              },
+              {
+                "title":"Game development",
+                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
+              }
+            ]
+          },
+          {
+            "title":"Audience",
+            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
+          },
+          {
+            "title":"Prerequisites",
+            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
+          },
+          {"_id":"18"}
+        ]
+      },
+      {
+        "Name": "Apache Wicket",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Apache_Wicket_logo_2.svg/640px-Apache_Wicket_logo_2.svg.png",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -1289,8 +1289,8 @@
         ]
       },
       {
-        "Name": "CSS3",
-        "Photo": "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png",
+        "Name": "JSF ",
+        "Photo": "https://www.javacodegeeks.com/wp-content/uploads/2012/10/jsf-logo.jpg.webp",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -1354,10 +1354,16 @@
           },
           {"_id":"20"}
         ]
-      },
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "Name": "Pyton",
+    "courses": [
       {
-        "Name": "Bootstrap4",
-        "Photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+        "Name": "Django",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/390px-Django_logo.svg.png?20101010121142",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -1372,7 +1378,7 @@
                 "text":"- You can create a website or customize an existing web template if you know HTML well"
               },
               {
-                "title":"Become a web designer",
+                "ti7tle":"Become a web designer",
                 "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
               },
               {
@@ -1423,8 +1429,8 @@
         ]
       },
       {
-        "Name": "Bootstrap5",
-        "Photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+        "Name": "Python",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png?20220821155029",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -1490,8 +1496,8 @@
         ]
       },
       {
-        "Name": "Bootstrap6",
-        "Photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+        "Name": "Flask",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/640px-Flask_logo.svg.png",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -1557,8 +1563,8 @@
         ]
       },
       {
-        "Name": "Tailwind CSS",
-        "Photo": "https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png",
+        "Name": "Pylons Framework",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pylons_Project_logo_on_transparent_background.png/1200px-Pylons_Project_logo_on_transparent_background.png?20170310111055",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -1622,10 +1628,16 @@
           },
           {"_id":"24"}
         ]
-      },
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "Name": "PHP",
+    "courses": [
       {
-        "Name": "Foundation",
-        "Photo": "https://seeklogo.com/images/F/foundation-logo-AA9B725281-seeklogo.com.png",
+        "Name": "PHP",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -1691,8 +1703,8 @@
         ]
       },
       {
-        "Name": "Bulma",
-        "Photo": "https://bulma.io/images/bulma-logo.png",
+        "Name": "Laravel",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/640px-Logo.min.svg.png",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -1758,8 +1770,8 @@
         ]
       },
       {
-        "Name": "Skeleton",
-        "Photo": "https://ucarecdn.com/ce6bebc5-9bc4-46fc-8c0e-ade218c2dd7d/-/format/auto/-/progressive/yes/-/preview/2048x2048/",
+        "Name": "FuelPHP",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/0/03/FuelPHP_logo.png",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -1823,16 +1835,10 @@
           },
           {"_id":"27"}
         ]
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "Name": "Pyton",
-    "courses": [
+      },
       {
-        "Name": "HTML5",
-        "Photo": "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png",
+        "Name": "Yii",
+        "Photo": "https://www.yiiframework.com/image/logo.svg",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -1847,7 +1853,7 @@
                 "text":"- You can create a website or customize an existing web template if you know HTML well"
               },
               {
-                "ti7tle":"Become a web designer",
+                "title":"Become a web designer",
                 "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
               },
               {
@@ -1896,10 +1902,16 @@
           },
           {"_id":"28"}
         ]
-      },
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "Name": "Database",
+    "courses": [
       {
-        "Name": "CSS3",
-        "Photo": "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png",
+        "Name": "SQL",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -1965,8 +1977,8 @@
         ]
       },
       {
-        "Name": "Bootstrap4",
-        "Photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+        "Name": "MySQL",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/640px-MySQL_textlogo.svg.png",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -2032,8 +2044,8 @@
         ]
       },
       {
-        "Name": "Bootstrap5",
-        "Photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+        "Name": "MongoDB",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/640px-MongoDB_Logo.svg.png",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -2099,8 +2111,8 @@
         ]
       },
       {
-        "Name": "Bootstrap6",
-        "Photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+        "Name": "PostgreSQL",
+        "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png",
         "Details": [
           {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
           {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
@@ -2163,1490 +2175,6 @@
             "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
           },
           {"_id":"32"}
-        ]
-      },
-      {
-        "Name": "Tailwind CSS",
-        "Photo": "https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"33"}
-        ]
-      },
-      {
-        "Name": "Foundation",
-        "Photo": "https://seeklogo.com/images/F/foundation-logo-AA9B725281-seeklogo.com.png",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"34"}
-        ]
-      },
-      {
-        "Name": "Bulma",
-        "Photo": "https://bulma.io/images/bulma-logo.png",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"35"}
-        ]
-      },
-      {
-        "Name": "Skeleton",
-        "Photo": "https://ucarecdn.com/ce6bebc5-9bc4-46fc-8c0e-ade218c2dd7d/-/format/auto/-/progressive/yes/-/preview/2048x2048/",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"36"}
-        ]
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "Name": "PHP",
-    "courses": [
-      {
-        "Name": "HTML5",
-        "Photo": "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"37"}
-        ]
-      },
-      {
-        "Name": "CSS3",
-        "Photo": "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"38"}
-        ]
-      },
-      {
-        "Name": "Bootstrap4",
-        "Photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"39"}
-        ]
-      },
-      {
-        "Name": "Bootstrap5",
-        "Photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"40"}
-        ]
-      },
-      {
-        "Name": "Bootstrap6",
-        "Photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"41"}
-        ]
-      },
-      {
-        "Name": "Tailwind CSS",
-        "Photo": "https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"42"}
-        ]
-      },
-      {
-        "Name": "Foundation",
-        "Photo": "https://seeklogo.com/images/F/foundation-logo-AA9B725281-seeklogo.com.png",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"43"}
-        ]
-      },
-      {
-        "Name": "Bulma",
-        "Photo": "https://bulma.io/images/bulma-logo.png",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"44"}
-        ]
-      },
-      {
-        "Name": "Skeleton",
-        "Photo": "https://ucarecdn.com/ce6bebc5-9bc4-46fc-8c0e-ade218c2dd7d/-/format/auto/-/progressive/yes/-/preview/2048x2048/",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "Name": "Database",
-    "courses": [
-      {
-        "Name": "HTML5",
-        "Photo": "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"37"}
-        ]
-      },
-      {
-        "Name": "CSS3",
-        "Photo": "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"38"}
-        ]
-      },
-      {
-        "Name": "Bootstrap4",
-        "Photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"39"}
-        ]
-      },
-      {
-        "Name": "Bootstrap5",
-        "Photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"40"}
-        ]
-      },
-      {
-        "Name": "Bootstrap6",
-        "Photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"41"}
-        ]
-      },
-      {
-        "Name": "Tailwind CSS",
-        "Photo": "https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"42"}
-        ]
-      },
-      {
-        "Name": "Foundation",
-        "Photo": "https://seeklogo.com/images/F/foundation-logo-AA9B725281-seeklogo.com.png",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"43"}
-        ]
-      },
-      {
-        "Name": "Bulma",
-        "Photo": "https://bulma.io/images/bulma-logo.png",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          },
-          {"_id":"44"}
-        ]
-      },
-      {
-        "Name": "Skeleton",
-        "Photo": "https://ucarecdn.com/ce6bebc5-9bc4-46fc-8c0e-ade218c2dd7d/-/format/auto/-/progressive/yes/-/preview/2048x2048/",
-        "Details": [
-          {"Introduce":"HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."},
-          {"shortDetails":"HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but 'HTML 2.0' was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012."},
-          {
-            "purposeQuestion":"Why to Learn HTML?",
-            "purpose":"Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:"
-          },
-          {
-            "pointsOfLearning":[
-              {
-                "title":"Create Web site",
-                "text":"- You can create a website or customize an existing web template if you know HTML well"
-              },
-              {
-                "title":"Become a web designer",
-                "text":" - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill."
-              },
-              {
-                "title":"Understand web",
-                "text":"- If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results."
-              },
-              {
-                "title":"Learn other languages",
-                "text":"- Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
-              }
-            ]
-          },
-          {
-            "application":"Applications of HTML",
-            "info":"As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:",
-            "points":[
-              {
-                "title":"Web pages development",
-                "text":"- HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser."
-              },
-              {
-                "title":"nternet Navigation",
-                "text":"- HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation."
-              },
-              {
-                "title":"Responsive UI",
-                "text":"- HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy."
-              },
-              {
-                "title":"Offline support",
-                "text":"HTML pages once loaded can be made available offline on the machine without any need of internet."
-              },
-              {
-                "title":"Game development",
-                "text":"- HTML5 has native support for rich experience and is now useful in gaming developent arena as well."
-              }
-            ]
-          },
-          {
-            "title":"Audience",
-            "text":"This HTML tutorial is designed for the aspiring Web Designers and Developers with a need to understand the HTML in enough detail along with its simple overview, and practical examples. This tutorial will give you enough ingredients to start with HTML from where you can take yourself at higher level of expertise."
-          },
-          {
-            "title":"Prerequisites",
-            "text":"Before proceeding with this tutorial you should have a basic working knowledge with Windows or Linux operating system, additionally you must be familiar with − #Experience with any text editor like notepad, notepad++, or Edit plus etc. #How to create directories and files on your computer. #How to navigate through different directories. #How to type content in a file and save them on a computer.#Understanding about images in different formats like JPEG, PNG format."
-          }
         ]
       }
     ]
